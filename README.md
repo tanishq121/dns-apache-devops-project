@@ -55,18 +55,6 @@ The domain successfully resolves to the web server and serves a live website.
 
 Tanishq Gupta
 
-
-## 📷 Project Screenshots
-
-### 🌐 Live Website
-![Website](screenshots/website.png)
-
-### 💻 Curl Output
-![Curl](screenshots/curl-output.png)
-
-### ☁️ AWS EC2 Setup
-![EC2](screenshots/ec2-instances.png)
-
 ### 🔐 Security Group Rules
 ![Security](screenshots/security-group.png)
 
