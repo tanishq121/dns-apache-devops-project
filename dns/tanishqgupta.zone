@@ -1,1 +1,17 @@
+$TTL 1M
+@       IN SOA @ rname.invalid. (  
+                                        0       ;serial
+                                        1D      ;refresh
+                                        1H      ;retry
+                                        1W      ;expire
+                                        1M )    ;minimum
 
+
+tanishqgupta.fun.       IN      NS      ns1.tanishqgupta.fun.
+tanishqgupta.fun.       IN      NS      ns2.tanishqgupta.fun.
+
+ns1.tanishqgupta.fun.   IN      A       13.234.37.181
+ns2.tanishqgupta.fun.   IN      A       13.234.37.181
+
+tanishqgupta.fun.       IN      A       3.111.214.149
+photos                  IN      A       3.111.214.149
